@@ -24,7 +24,7 @@ gcloud auth configure-docker
 gcloud container clusters get-credentials qa-gcp1 --zone us-east1-d --project guestbook-227502
 export IMAGETAG=prod-2.4.0
 export MPIMAGETAG='2.4.0'
-export DEPLOYERTAG='2.4.0'
+export DEPLOYERTAG='2.4'
 # Install MPDEV
 https://github.com/GoogleCloudPlatform/marketplace-tools/tree/master
 
