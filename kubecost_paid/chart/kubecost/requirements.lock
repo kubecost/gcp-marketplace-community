@@ -3,4 +3,4 @@ dependencies:
   repository: https://kubecost.github.io/cost-analyzer/
   version: 2.4.0
 digest: sha256:c436d08e8713714b51f1bfe52900849cb1eb0dc8d8770da5b89a4c2d3dd4f833
-generated: "2024-09-25T16:51:19.059954997-04:00"
+generated: "2024-09-25T17:41:24.55421063-04:00"
